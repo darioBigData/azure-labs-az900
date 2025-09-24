@@ -42,18 +42,3 @@ A mí me correspondieron los siguientes:
 - ARM Templates  
 
 ---
-
-## 📂 Estructura del repositorio
-azure-labs-az900/
-│
-├── README.md
-├── docs/
-│ ├── Labs_10_11_Dario.docx # Documento completo con capturas
-│ └── Labs_10_11_Dario.pdf # (opcional) versión PDF
-└── img/
-├── lab10_availabilityset.png
-├── lab10_vm1.png
-├── lab10_vm2.png
-├── lab10_loadbalancer.png
-├── lab11_vmss_rules.png
-└── ...
