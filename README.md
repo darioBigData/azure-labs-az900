@@ -18,7 +18,9 @@ A mí me correspondieron los siguientes:
 3. Configurar un **Azure Load Balancer** para distribuir el tráfico entre las VMs.  
 
 📸 Ejemplo: creación de un Availability Set  
-![Availability Set](./img/lab10_availabilityset.png)
+![Availability Set](./img/lab10_availabilityset1_1.png)
+![Availability Set](./img/lab10_availabilityset1_2.png)
+
 
 ---
 
