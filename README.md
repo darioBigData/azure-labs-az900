@@ -32,7 +32,11 @@ A mí me correspondieron los siguientes:
 3. Verificar la conectividad mediante la IP pública y configurar reglas de seguridad de red (NSG).  
 
 📸 Ejemplo: configuración de reglas de autoescalado  
-![VMSS Escalado](./img/lab11_vmss_rules.png)
+![VMSS Escalado](./img/lab11_vmss_rules_1.1.png)
+![VMSS Escalado](./img/lab11_vmss_rules_1.2.png)
+![VMSS Escalado](./img/lab11_vmss_rules_1.3.png)
+![VMSS Escalado](./img/lab11_vmss_rules_1.4.png)
+
 
 ---
 
